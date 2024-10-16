@@ -1,12 +1,4 @@
-// File : A1_T1_S7_20230116.cpp
-
 // author : Habiba Ibrahim Abdeldayem Ibrahim
-
-// ID : 20230116
-
-// Task : 1
-
-// Date: 10 Oct 2024.
 
 /*This program make the user to choose between for problems
    1. *Sentence Correction*: The user enters a sentence, and the program corrects it by capitalizing
